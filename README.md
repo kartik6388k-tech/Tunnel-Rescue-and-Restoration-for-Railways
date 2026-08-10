@@ -1,8 +1,14 @@
 # Rescue and Restoration in Railway Tunnels
 
-![Tunnel Rescue Concept](<Tunnel rescue concept.png>)
-
 ## Overview
+
+<p align="center">
+  <img src="Screenshot%202026-08-10%20090630.png" alt="Railway Tunnel Rescue Team" width="850">
+</p>
+
+<p align="center">
+  <b>Overview — Rescue and Restoration Operations in Railway Tunnels</b>
+</p>
 
 This project presents a study and engineering approach for **rescue and restoration during railway tunnel accidents**, with particular focus on the operational challenges faced in confined tunnel environments.
 
@@ -14,8 +20,6 @@ The work covers:
 - Recovery and restoration of derailed rolling stock
 - Tunnel-specific disaster-management equipment
 - Safety, structural, and operational considerations
-
-The project is based on the internship/project work carried out at the **Indian Railway Institute of Disaster Management (IRIDM), Bengaluru**, under Gati Shakti Vishwavidyalaya.
 
 ---
 
@@ -52,7 +56,9 @@ Therefore, rescue systems used inside tunnels need to be **compact, reliable, de
 
 The project considers a coordinated rescue approach in which trained personnel use suitable anchoring, ropes, stretchers, hauling systems, and other rescue equipment to evacuate casualties from difficult tunnel locations.
 
-![Tunnel rescue concept](<Tunnel rescue concept.png>)
+<p align="center">
+  <img src="Tunnel%20rescue%20concept.png" alt="Tunnel Rescue Concept" width="800">
+</p>
 
 The proposed approach considers the limitations of conventional rescue machinery and emphasizes equipment that can be transported and operated inside confined spaces.
 
@@ -73,9 +79,11 @@ The methodology includes:
 - Maintaining a belay/safety system
 - Coordinating the rescue team
 
-![Rope and stretcher rescue](<Rope and stretcher(slag).png>)
+<p align="center">
+  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and Stretcher Rescue" width="800">
+</p>
 
-### Key considerations
+### Key Considerations
 
 - Rope selection and strength
 - Anchoring arrangements
@@ -86,7 +94,7 @@ The methodology includes:
 - Edge protection
 - Communication between rescue members
 
-The report also considers a **human-chain technique** as a fallback option when rope-based equipment is unavailable.
+The project also considers a **human-chain technique** as a fallback option when rope-based equipment is unavailable.
 
 ---
 
@@ -96,9 +104,11 @@ A major proposed solution is a permanent rescue arrangement using **ISMB-125 str
 
 The purpose of the system is to provide a predictable structural support arrangement for rescue operations and facilitate movement of a stretcher through constrained areas.
 
-![I-beam and stretcher](<I-beam and stracher.png>)
+<p align="center">
+  <img src="I-beam%20and%20stracher.png" alt="I-Beam and Stretcher Rescue System" width="800">
+</p>
 
-### Main concept
+### Main Concept
 
 The I-beam system is intended to provide:
 
@@ -118,7 +128,9 @@ Tunnel geometry and available clearance are critical when designing a permanent 
 
 The project studies tunnel clearance and the relationship between the rescue arrangement, tunnel structure, and railway operating envelope.
 
-![Tunnel cross-sectional view](<cross-sectional view.png>)
+<p align="center">
+  <img src="cross-sectional%20view.png" alt="Tunnel Cross-Sectional View" width="800">
+</p>
 
 The cross-sectional assessment is important for ensuring that the proposed rescue infrastructure does not interfere with railway operations or required clearances.
 
@@ -228,6 +240,7 @@ The proposed approach aims to improve:
 | File | Description |
 |---|---|
 | `2d_view_inside_tunnel.dwg` | 2D tunnel drawing / CAD layout |
+| `Screenshot 2026-08-10 090630.png` | Overview / rescue team image |
 | `Tunnel rescue concept.png` | Tunnel rescue concept |
 | `Rope and stretcher(slag).png` | Rope and stretcher rescue arrangement |
 | `I-beam and stracher.png` | I-beam and stretcher arrangement |

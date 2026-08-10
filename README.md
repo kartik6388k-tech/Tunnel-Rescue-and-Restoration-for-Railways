@@ -57,7 +57,7 @@ Therefore, rescue systems used inside tunnels need to be **compact, reliable, de
 The project considers a coordinated rescue approach in which trained personnel use suitable anchoring, ropes, stretchers, hauling systems, and other rescue equipment to evacuate casualties from difficult tunnel locations.
 
 <p align="center">
-  <img src="Tunnel%20rescue%20concept.png" alt="Tunnel Rescue Concept" width="850">
+  <img src="Tunnel%20rescue%20concept.png" alt="Tunnel rescue concept" width="850">
 </p>
 
 The proposed approach considers the limitations of conventional rescue machinery and emphasizes equipment that can be transported and operated inside confined spaces.
@@ -69,7 +69,7 @@ The proposed approach considers the limitations of conventional rescue machinery
 Rope rescue provides a flexible method for reaching and evacuating casualties when normal access routes are unavailable.
 
 <p align="center">
-  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and Stretcher Rescue" width="850">
+  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="850">
 </p>
 
 ### Rescue Method
@@ -102,7 +102,7 @@ The project also considers a **human-chain technique** as a fallback option when
 
 # 3. Rope Rescue vs. Permanent I-Beam Rescue System
 
-Both **rope rescue** and the proposed **permanent I-beam rescue system** can support casualty evacuation in railway tunnels. However, the two approaches differ in their installation, flexibility, anchoring requirements, deployment, and operational characteristics.
+Both **rope rescue** and the proposed **permanent I-beam rescue system** can support casualty evacuation in railway tunnels. However, the two approaches differ in installation, flexibility, anchoring requirements, deployment, and operational characteristics.
 
 ## Visual Comparison
 
@@ -112,7 +112,7 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ### Rope Rescue
 
-<img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope Rescue" width="450">
+<img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="450">
 
 **Temporary and Deployable System**
 
@@ -122,7 +122,7 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ### Permanent I-Beam Rescue
 
-<img src="I-beam%20and%20stracher.png" alt="Permanent I-Beam Rescue System" width="450">
+<img src="I-beam%20and%20stracher.png" alt="I-beam and stracher" width="450">
 
 **Permanent and Fixed Support System**
 
@@ -132,7 +132,7 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ---
 
-## Comparison Table
+## Comparison
 
 | Parameter | Rope Rescue | Permanent I-Beam Rescue |
 |---|---|---|
@@ -172,7 +172,7 @@ However, the system depends on:
 A major proposed solution is a permanent rescue arrangement using **ISMB-125 structural steel beams** installed inside suitable railway tunnels.
 
 <p align="center">
-  <img src="I-beam%20and%20stracher.png" alt="Permanent I-Beam Rescue System" width="850">
+  <img src="I-beam%20and%20stracher.png" alt="I-beam and stracher" width="850">
 </p>
 
 The purpose of the system is to provide a **pre-engineered structural support arrangement** for rescue operations and facilitate movement of a stretcher through constrained tunnel sections.
@@ -233,7 +233,7 @@ Therefore, the permanent I-beam system can be considered an **additional rescue 
 Tunnel geometry and available clearance are critical when designing a permanent rescue system.
 
 <p align="center">
-  <img src="cross-sectional%20view.png" alt="Tunnel Cross-Sectional View" width="850">
+  <img src="cross-sectional%20view.png" alt="cross-sectional view" width="850">
 </p>
 
 The project studies tunnel clearance and the relationship between the rescue arrangement, tunnel structure, and railway operating envelope.
@@ -242,7 +242,21 @@ The cross-sectional assessment is important for ensuring that the proposed rescu
 
 ---
 
-# 6. Rolling Stock Recovery
+# 6. Additional Project Visuals
+
+<p align="center">
+  <img src="Screenshot%202025-06-17%20205459.png" alt="Railway tunnel project visual" width="850">
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-08-10%20at%2009.32.28.jpeg" alt="Railway tunnel project visual" width="850">
+</p>
+
+These additional project images provide visual documentation related to the tunnel rescue and restoration study.
+
+---
+
+# 7. Rolling Stock Recovery
 
 In addition to human rescue, the project addresses **restoration of derailed rolling stock inside or near railway tunnels**.
 
@@ -252,7 +266,7 @@ The proposed material-trolley concept is intended to support movement of recover
 
 ---
 
-# 7. Disaster Management Equipment Studied
+# 8. Disaster Management Equipment Studied
 
 The project reviews equipment used for railway disaster management, including:
 
@@ -275,7 +289,7 @@ The project reviews equipment used for railway disaster management, including:
 
 ---
 
-# 8. Engineering Standards and Analysis
+# 9. Engineering Standards and Analysis
 
 The project refers to relevant standards and engineering criteria, including:
 
@@ -298,7 +312,7 @@ Structural evaluation of the proposed I-beam system considers factors such as:
 
 ---
 
-# 9. Project Workflow
+# 10. Project Workflow
 
 ```text
 Tunnel Accident Scenario
@@ -327,7 +341,7 @@ Restoration of Railway Operations
 
 ---
 
-# 10. Expected Benefits
+# 11. Expected Benefits
 
 The proposed approach aims to improve:
 
@@ -341,17 +355,19 @@ The proposed approach aims to improve:
 
 ---
 
-# 11. Project Files
+# 12. Project Files
 
 | File | Description |
 |---|---|
 | `2d_view_inside_tunnel.dwg` | 2D tunnel drawing / CAD layout |
+| `I-beam and stracher.png` | I-beam and stracher arrangement |
+| `README.md` | Project documentation |
+| `Rope and stretcher(slag).png` | Rope and stretcher(slag) arrangement |
+| `Screenshot 2025-06-17 205459.png` | Project visual |
 | `Screenshot 2026-08-10 090630.png` | Overview / rescue team image |
 | `Tunnel rescue concept.png` | Tunnel rescue concept |
-| `Rope and stretcher(slag).png` | Rope and stretcher rescue arrangement |
-| `I-beam and stracher.png` | I-beam and stretcher arrangement |
+| `WhatsApp Image 2026-08-10 at 09.32.28.jpeg` | Project visual |
 | `cross-sectional view.png` | Tunnel cross-sectional view |
-| `README.md` | Project documentation |
 
 ---
 

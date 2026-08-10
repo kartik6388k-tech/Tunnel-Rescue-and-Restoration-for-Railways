@@ -64,15 +64,23 @@ The proposed approach considers the limitations of conventional rescue machinery
 
 ---
 
-# 2. Rope and Stretcher Rescue
+# 2. Rope Rescue
 
-Rope rescue provides a flexible method for reaching and evacuating casualties when normal access routes are unavailable.
+**Temporary and Deployable System**
 
 <p align="center">
-  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="850">
+  <a href="https://github.com/kartik6388k-tech/Tunnel-Rescue-and-Restoration-for-Railways/blob/main/Tunnel_layout.jpeg">
+    <img src="Tunnel_layout.jpeg" alt="Tunnel Layout" width="850">
+  </a>
 </p>
 
-### Rescue Method
+### Tunnel Layout
+
+The tunnel layout illustrates the spatial arrangement considered for the rescue operation and provides the basis for understanding access, movement, and positioning of rescue personnel and equipment inside the tunnel.
+
+### Rope Rescue Method
+
+Rope rescue provides a **flexible and deployable method** for reaching and evacuating casualties when normal access routes are unavailable.
 
 The methodology includes:
 
@@ -85,16 +93,22 @@ The methodology includes:
 - Maintaining a belay/safety system
 - Coordinating the rescue team
 
+### Rope and Stretcher Arrangement
+
+<p align="center">
+  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="850">
+</p>
+
 ### Key Considerations
 
 - Rope selection and strength
 - Anchoring arrangements
-- Fall-factor considerations
 - Load capacity
 - Mechanical advantage
 - Knot and connection reliability
 - Edge protection
 - Communication between rescue members
+- Available working space inside the tunnel
 
 The project also considers a **human-chain technique** as a fallback option when rope-based equipment is unavailable.
 
@@ -112,9 +126,9 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ### Rope Rescue
 
-<img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="450">
+<p><b>Temporary and Deployable System</b></p>
 
-**Temporary and Deployable System**
+<img src="Tunnel_layout.jpeg" alt="Tunnel Layout for Rope Rescue" width="450">
 
 </td>
 
@@ -122,9 +136,9 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ### Permanent I-Beam Rescue
 
-<img src="I-beam%20and%20stracher.png" alt="I-beam and stracher" width="450">
+<p><b>Permanent and Fixed Support System</b></p>
 
-**Permanent and Fixed Support System**
+<img src="I-beam%20and%20stracher.png" alt="I-beam and stracher" width="450">
 
 </td>
 </tr>
@@ -153,17 +167,22 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ---
 
-## Rope Rescue
+## Rope Rescue — Advantages and Limitations
 
-The main advantage of rope rescue is its **portability and flexibility**. Rescue equipment can be transported to different locations and installed according to the accident situation.
+### Advantages
 
-However, the system depends on:
+- Portable
+- Flexible
+- Can be deployed at different locations
+- Does not require a permanent structural installation
+- Suitable for emergency situations where suitable anchoring is available
 
-- Availability of suitable anchor points
-- Accessibility of the rescue location
-- Proper installation of the rope system
-- Availability of trained rescue personnel
-- Adequate rescue equipment
+### Limitations
+
+- Requires trained rescue personnel
+- Requires suitable anchor points
+- Setup is required during the rescue operation
+- Confined tunnel geometry can make anchoring and movement more difficult
 
 ---
 
@@ -177,7 +196,7 @@ A major proposed solution is a permanent rescue arrangement using **ISMB-125 str
 
 The purpose of the system is to provide a **pre-engineered structural support arrangement** for rescue operations and facilitate movement of a stretcher through constrained tunnel sections.
 
-### Main Concept
+## Main Concept
 
 The I-beam system is intended to provide:
 
@@ -187,7 +206,7 @@ The I-beam system is intended to provide:
 - Reduced dependence on temporary anchoring
 - A scalable arrangement for selected tunnel sections
 
-### Proposed Rescue Strategy
+## Proposed Rescue Strategy
 
 The permanent I-beam system is **not intended to completely replace rope rescue**.
 
@@ -220,7 +239,7 @@ Instead, the two systems can work together:
           Casualty Evacuation
 ```
 
-### Key Takeaway
+## Key Takeaway
 
 > **Rope rescue provides flexibility and portability, whereas the proposed permanent I-beam system provides a pre-installed structural support arrangement for rescue operations at selected tunnel locations.**
 
@@ -245,11 +264,11 @@ The cross-sectional assessment is important for ensuring that the proposed rescu
 # 6. Additional Project Visuals
 
 <p align="center">
-  <img src="Screenshot%202025-06-17%20205459.png" alt="Railway tunnel project visual" width="850">
+  <img src="Screenshot%202025-06-17%20205459.png" alt="Screenshot 2025-06-17 205459" width="850">
 </p>
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-08-10%20at%2009.32.28.jpeg" alt="Railway tunnel project visual" width="850">
+  <img src="WhatsApp%20Image%202026-08-10%20at%2009.32.28.jpeg" alt="WhatsApp Image 2026-08-10 at 09.32.28" width="850">
 </p>
 
 These additional project images provide visual documentation related to the tunnel rescue and restoration study.
@@ -366,6 +385,7 @@ The proposed approach aims to improve:
 | `Screenshot 2025-06-17 205459.png` | Project visual |
 | `Screenshot 2026-08-10 090630.png` | Overview / rescue team image |
 | `Tunnel rescue concept.png` | Tunnel rescue concept |
+| `Tunnel_layout.jpeg` | Tunnel layout used for the rope rescue concept |
 | `WhatsApp Image 2026-08-10 at 09.32.28.jpeg` | Project visual |
 | `cross-sectional view.png` | Tunnel cross-sectional view |
 

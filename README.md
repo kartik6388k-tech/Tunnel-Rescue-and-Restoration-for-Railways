@@ -80,7 +80,7 @@ The methodology includes:
 - Coordinating the rescue team
 
 <p align="center">
-  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and Stretcher Rescue" width="800">
+  <img src="Rope%20and%20stretcher%28(slag)%29.png" alt="Rope and streacher(slag)" width="800">
 </p>
 
 ### Key Considerations

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Overview — Rescue and Restoration Operations in Railway Tunnels</b>
+  <b>Rescue and Restoration Operations in Railway Tunnels</b>
 </p>
 
 This project presents a study and engineering approach for **rescue and restoration during railway tunnel accidents**, with particular focus on the operational challenges faced in confined tunnel environments.
@@ -52,21 +52,27 @@ Therefore, rescue systems used inside tunnels need to be **compact, reliable, de
 
 ---
 
-## 1. Tunnel Rescue Concept
+# 1. Tunnel Rescue Concept
 
 The project considers a coordinated rescue approach in which trained personnel use suitable anchoring, ropes, stretchers, hauling systems, and other rescue equipment to evacuate casualties from difficult tunnel locations.
 
 <p align="center">
-  <img src="Tunnel%20rescue%20concept.png" alt="Tunnel Rescue Concept" width="800">
+  <img src="Tunnel%20rescue%20concept.png" alt="Tunnel Rescue Concept" width="850">
 </p>
 
 The proposed approach considers the limitations of conventional rescue machinery and emphasizes equipment that can be transported and operated inside confined spaces.
 
 ---
 
-## 2. Rope and Stretcher Rescue
+# 2. Rope and Stretcher Rescue
 
 Rope rescue provides a flexible method for reaching and evacuating casualties when normal access routes are unavailable.
+
+<p align="center">
+  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and Stretcher Rescue" width="850">
+</p>
+
+### Rescue Method
 
 The methodology includes:
 
@@ -78,10 +84,6 @@ The methodology includes:
 - Hauling or lowering the stretcher
 - Maintaining a belay/safety system
 - Coordinating the rescue team
-
-<p align="center">
-  <img src="Rope%20and%20stretcher%28(slag)%29.png" alt="Rope and streacher(slag)" width="800">
-</p>
 
 ### Key Considerations
 
@@ -98,15 +100,82 @@ The project also considers a **human-chain technique** as a fallback option when
 
 ---
 
-## 3. Permanent I-Beam Rescue System
+# 3. Rope Rescue vs. Permanent I-Beam Rescue System
+
+Both **rope rescue** and the proposed **permanent I-beam rescue system** can support casualty evacuation in railway tunnels. However, the two approaches differ in their installation, flexibility, anchoring requirements, deployment, and operational characteristics.
+
+## Visual Comparison
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Rope Rescue
+
+<img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope Rescue" width="450">
+
+**Temporary and Deployable System**
+
+</td>
+
+<td align="center" width="50%">
+
+### Permanent I-Beam Rescue
+
+<img src="I-beam%20and%20stracher.png" alt="Permanent I-Beam Rescue System" width="450">
+
+**Permanent and Fixed Support System**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Comparison Table
+
+| Parameter | Rope Rescue | Permanent I-Beam Rescue |
+|---|---|---|
+| **System Type** | Temporary rescue system | Permanent rescue-support system |
+| **Installation** | Installed during rescue operation | Installed in advance at selected tunnel locations |
+| **Mobility** | Highly portable | Fixed installation |
+| **Anchoring** | Requires suitable temporary or natural anchors | Uses a fixed structural support |
+| **Flexibility** | High flexibility | Location-specific |
+| **Deployment** | Requires setup by trained rescue personnel | Provides a pre-installed support point |
+| **Equipment** | Ropes, anchors, carabiners, pulleys, stretcher, etc. | I-beam support with suitable rescue equipment |
+| **Setup Requirement** | Anchor and rope system must be established | Main structural support is already installed |
+| **Initial Cost** | Relatively lower | Higher due to permanent installation |
+| **Maintenance** | Rescue equipment requires periodic inspection | Structural system and rescue equipment require periodic inspection |
+| **Training** | Requires specialized rope-rescue skills | Requires trained personnel to operate the rescue system |
+| **Adaptability** | Can be used at different locations | Suitable for selected pre-engineered locations |
+| **Main Advantage** | Portable and adaptable | Provides a predictable fixed rescue-support point |
+| **Main Limitation** | Anchoring and setup may be difficult in confined tunnels | Requires prior engineering, installation, inspection, and maintenance |
+
+---
+
+## Rope Rescue
+
+The main advantage of rope rescue is its **portability and flexibility**. Rescue equipment can be transported to different locations and installed according to the accident situation.
+
+However, the system depends on:
+
+- Availability of suitable anchor points
+- Accessibility of the rescue location
+- Proper installation of the rope system
+- Availability of trained rescue personnel
+- Adequate rescue equipment
+
+---
+
+# 4. Permanent I-Beam Rescue System
 
 A major proposed solution is a permanent rescue arrangement using **ISMB-125 structural steel beams** installed inside suitable railway tunnels.
 
-The purpose of the system is to provide a predictable structural support arrangement for rescue operations and facilitate movement of a stretcher through constrained areas.
-
 <p align="center">
-  <img src="I-beam%20and%20stracher.png" alt="I-Beam and Stretcher Rescue System" width="800">
+  <img src="I-beam%20and%20stracher.png" alt="Permanent I-Beam Rescue System" width="850">
 </p>
+
+The purpose of the system is to provide a **pre-engineered structural support arrangement** for rescue operations and facilitate movement of a stretcher through constrained tunnel sections.
 
 ### Main Concept
 
@@ -116,27 +185,64 @@ The I-beam system is intended to provide:
 - More predictable load transfer
 - Improved rescue accessibility
 - Reduced dependence on temporary anchoring
-- A scalable arrangement for tunnel rescue operations
+- A scalable arrangement for selected tunnel sections
 
-The project evaluates the structural behaviour and safety of the proposed beam system, including load, deflection, stress, and safety-margin considerations.
+### Proposed Rescue Strategy
+
+The permanent I-beam system is **not intended to completely replace rope rescue**.
+
+Instead, the two systems can work together:
+
+```text
+                 TUNNEL ACCIDENT
+                       │
+                       ▼
+              Assess Tunnel Conditions
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+             ▼                   ▼
+      Permanent I-Beam      No Permanent
+        Available?           Support Available
+             │                   │
+        ┌────┴────┐              │
+       YES         NO             │
+        │           │             │
+        ▼           └──────┬──────┘
+  Connect Rescue           ▼
+  Equipment to I-Beam   Establish
+        │                Rope Anchor
+        └────────┬───────────┘
+                 ▼
+          Secure Stretcher
+                 │
+                 ▼
+          Casualty Evacuation
+```
+
+### Key Takeaway
+
+> **Rope rescue provides flexibility and portability, whereas the proposed permanent I-beam system provides a pre-installed structural support arrangement for rescue operations at selected tunnel locations.**
+
+Therefore, the permanent I-beam system can be considered an **additional rescue infrastructure**, while rope-based equipment continues to perform the actual casualty handling, hauling, lowering, and evacuation operations.
 
 ---
 
-## 4. Tunnel Cross-Section and Clearance
+# 5. Tunnel Cross-Section and Clearance
 
 Tunnel geometry and available clearance are critical when designing a permanent rescue system.
 
-The project studies tunnel clearance and the relationship between the rescue arrangement, tunnel structure, and railway operating envelope.
-
 <p align="center">
-  <img src="cross-sectional%20view.png" alt="Tunnel Cross-Sectional View" width="800">
+  <img src="cross-sectional%20view.png" alt="Tunnel Cross-Sectional View" width="850">
 </p>
+
+The project studies tunnel clearance and the relationship between the rescue arrangement, tunnel structure, and railway operating envelope.
 
 The cross-sectional assessment is important for ensuring that the proposed rescue infrastructure does not interfere with railway operations or required clearances.
 
 ---
 
-## 5. Rolling Stock Recovery
+# 6. Rolling Stock Recovery
 
 In addition to human rescue, the project addresses **restoration of derailed rolling stock inside or near railway tunnels**.
 
@@ -146,7 +252,7 @@ The proposed material-trolley concept is intended to support movement of recover
 
 ---
 
-## 6. Disaster Management Equipment Studied
+# 7. Disaster Management Equipment Studied
 
 The project reviews equipment used for railway disaster management, including:
 
@@ -169,7 +275,7 @@ The project reviews equipment used for railway disaster management, including:
 
 ---
 
-## 7. Engineering Standards and Analysis
+# 8. Engineering Standards and Analysis
 
 The project refers to relevant standards and engineering criteria, including:
 
@@ -192,7 +298,7 @@ Structural evaluation of the proposed I-beam system considers factors such as:
 
 ---
 
-## 8. Project Workflow
+# 9. Project Workflow
 
 ```text
 Tunnel Accident Scenario
@@ -221,7 +327,7 @@ Restoration of Railway Operations
 
 ---
 
-## 9. Expected Benefits
+# 10. Expected Benefits
 
 The proposed approach aims to improve:
 
@@ -235,7 +341,7 @@ The proposed approach aims to improve:
 
 ---
 
-## 10. Project Files
+# 11. Project Files
 
 | File | Description |
 |---|---|
@@ -249,7 +355,7 @@ The proposed approach aims to improve:
 
 ---
 
-## Project Team
+# Project Team
 
 **Kartik Kushwaha (23ME019)**  
 **Shanmukha Sri (23ME036)**
@@ -259,18 +365,20 @@ The proposed approach aims to improve:
 
 ---
 
-## Acknowledgement
+# Acknowledgement
 
 The project was developed with academic and technical guidance from the faculty, instructors, and technical staff associated with the **Indian Railway Institute of Disaster Management (IRIDM), Bengaluru**, and Gati Shakti Vishwavidyalaya.
 
 ---
 
-## Project Report
+# Project Report
 
 The detailed project report contains the complete study of tunnel accidents, tunnel classification, disaster-management equipment, rope rescue, the proposed I-beam rescue system, railway disaster management, and material-trolley-based restoration.
 
 ---
 
-## Disclaimer
+# Disclaimer
 
-This repository documents an academic engineering project and proposed rescue concepts. Any real-world railway rescue system must be validated, approved, tested, and implemented according to applicable railway rules, engineering standards, safety procedures, and competent-authority requirements.
+This repository documents an academic engineering project and proposed rescue concepts.
+
+Any real-world railway rescue system must be **validated, approved, tested, and implemented** according to applicable railway rules, engineering standards, safety procedures, and competent-authority requirements.

@@ -52,7 +52,7 @@ Therefore, rescue systems used inside tunnels need to be **compact, reliable, de
 
 ---
 
-# 1. Tunnel Rescue Concept
+# 1. Tunnel Layout
 
 The project considers a coordinated rescue approach in which trained personnel use suitable anchoring, ropes, stretchers, hauling systems, and other rescue equipment to evacuate casualties from difficult tunnel locations.
 
@@ -96,7 +96,7 @@ The methodology includes:
 ### Rope and Stretcher Arrangement
 
 <p align="center">
-  <img src="Rope%20and%20stretcher%28slag%29.png" alt="Rope and stretcher(slag)" width="850">
+  <img src="Rope%20and%20streacher%28slag%29.png" alt="Rope and streacher(slag)" width="850">
 </p>
 
 ### Key Considerations
@@ -128,7 +128,7 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 <p><b>Temporary and Deployable System</b></p>
 
-<img src="Tunnel_layout.jpeg" alt="Tunnel Layout for Rope Rescue" width="450">
+<img src="Rope%20and%20streacher%28slag%29.png" alt="Rope and streacher(slag)" width="850">
 
 </td>
 
@@ -167,17 +167,16 @@ Both **rope rescue** and the proposed **permanent I-beam rescue system** can sup
 
 ---
 
-## Rope Rescue — Advantages and Limitations
-
-### Advantages
+## Rope Rescue — Advantages
 
 - Portable
 - Flexible
 - Can be deployed at different locations
-- Does not require a permanent structural installation
+- Does not require permanent structural installation
 - Suitable for emergency situations where suitable anchoring is available
+- Can be transported with the rescue team
 
-### Limitations
+## Rope Rescue — Limitations
 
 - Requires trained rescue personnel
 - Requires suitable anchor points
@@ -261,17 +260,13 @@ The cross-sectional assessment is important for ensuring that the proposed rescu
 
 ---
 
-# 6. Additional Project Visuals
+# 6. Additional Project Visual
 
 <p align="center">
   <img src="Screenshot%202025-06-17%20205459.png" alt="Screenshot 2025-06-17 205459" width="850">
 </p>
 
-<p align="center">
-  <img src="WhatsApp%20Image%202026-08-10%20at%2009.32.28.jpeg" alt="WhatsApp Image 2026-08-10 at 09.32.28" width="850">
-</p>
-
-These additional project images provide visual documentation related to the tunnel rescue and restoration study.
+This image provides additional visual documentation related to the project.
 
 ---
 
@@ -381,12 +376,12 @@ The proposed approach aims to improve:
 | `2d_view_inside_tunnel.dwg` | 2D tunnel drawing / CAD layout |
 | `I-beam and stracher.png` | I-beam and stracher arrangement |
 | `README.md` | Project documentation |
-| `Rope and stretcher(slag).png` | Rope and stretcher(slag) arrangement |
+| `Rope and streacher(slag).png` | Rope and streacher(slag) arrangement |
 | `Screenshot 2025-06-17 205459.png` | Project visual |
 | `Screenshot 2026-08-10 090630.png` | Overview / rescue team image |
 | `Tunnel rescue concept.png` | Tunnel rescue concept |
 | `Tunnel_layout.jpeg` | Tunnel layout used for the rope rescue concept |
-| `WhatsApp Image 2026-08-10 at 09.32.28.jpeg` | Project visual |
+| `WhatsApp Image 2026-08-10 at 09.32.28.jpeg` | Project file |
 | `cross-sectional view.png` | Tunnel cross-sectional view |
 
 ---
